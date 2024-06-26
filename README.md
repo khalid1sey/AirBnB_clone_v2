@@ -1,9 +1,6 @@
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
-
----
-
 <center><h3>Repository Contents by Project Task</h3> </center>
 
 | Tasks | Files | Description |
@@ -65,7 +62,6 @@ Advanced syntax is implemented for the following commands:
 
     * update - Updates existing attributes an object based on class name and UUID
 
-<br>
 <br>
 <center> <h2>Examples</h2> </center>
 <h3>Primary Command Syntax</h3>
@@ -140,3 +136,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
+This project is done as team project alx software engineering program and done by: <br>
+Khalid Sinteayehu <br>
